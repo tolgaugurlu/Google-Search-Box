@@ -37,7 +37,7 @@ git clone https://github.com/geeky-prashant/google-search-box.git
 
 ### Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/tolgaaugurlu).
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/tolgaaugurlu). <br/>
 If you want to contact me you can reach me at [Instagram](https://www.instagram.com/tolgaaugurlu).
 
 ### License
