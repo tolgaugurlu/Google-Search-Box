@@ -11,7 +11,8 @@
 
 ### Demo Screeshots
 
-![Google Search Box Desktop Demo](./readme-images/Google-Search-Box.png "Desktop Demo")
+![Ekran Resmi 2022-11-06 18 03 46](https://user-images.githubusercontent.com/85436268/200321369-1aa0b5f8-05a4-4de9-b44a-28ee12a9fe02.png)
+
 
 ### Prerequisites
 
