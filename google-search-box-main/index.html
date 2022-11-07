@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Google Search Box</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="hero">
+      <div id="searchBox">
+        <img src="images/google.png" id="googleIcon" />
+        <input type="text" placeholder="Search Google or type a URL" />
+        <img src="images/microphone.png" class="mic-icon" />
+      </div>
+    </div>
+    <script>
+      // Google Search için Script kodları.
+      var searchBox = document.getElementById("searchBox");
+      var googleIcon = document.getElementById("googleIcon");
+      googleIcon.onclick = function () {
+        searchBox.classList.toggle("active");
+      };
+    </script>
+  </body>
+</html>
