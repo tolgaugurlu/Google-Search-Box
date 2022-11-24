@@ -5,7 +5,7 @@
   ![GitHub forks](https://img.shields.io/github/forks/tolgaugurlu/Google-Search-Box?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/tolgaugurlu?style=social)](https://twitter.com/intent/follow?screen_name=tolgaugurlu)
   
-
+  <br>
   <h2 align="center">Google Search Box</h2>
 
   In this project, I have created an animated Google Search Box with click event, The project is built using HTML5, CSS3 & Javascript.
