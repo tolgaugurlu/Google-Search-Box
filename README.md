@@ -1,5 +1,10 @@
 <div align="center">
   
+  ![GitHub repo size](https://img.shields.io/github/repo-size/tolgaugurlu/Google-Search-Box)
+  ![GitHub stars](https://img.shields.io/github/stars/tolgaugurlu/Google-Search-Box)
+  ![GitHub forks](https://img.shields.io/github/forks/tolgaugurlu/Google-Search-Box?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/tolgaugurlu?style=social)](https://twitter.com/intent/follow?screen_name=tolgaugurlu)
+  
 
   <h2 align="center">Google Search Box</h2>
 
