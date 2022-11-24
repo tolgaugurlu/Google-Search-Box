@@ -10,7 +10,7 @@
 
   In this project, I have created an animated Google Search Box with click event, The project is built using HTML5, CSS3 & Javascript.
 
-  <a href="https://tolgaugurlu.github.io/Google-Search-Box/"><strong>➥ Live Demo</strong></a>
+  <a href="https://tolgaugurlu.github.io/google-search-box/index.html"><strong>➥ Live Demo</strong></a>
 
 </div>
 
